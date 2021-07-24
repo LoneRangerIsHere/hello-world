@@ -1,3 +1,3 @@
 # hello-world
 learning
-i am someone who loves programming, I alwyas try to change the real world problems into problems.
+i am someone who loves programming, I always try to change the real world problems into programs.
